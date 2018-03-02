@@ -28,4 +28,5 @@
 - Demo時，請直接使用Azure Web Site成品說明
 - Demo當天請顯示Visual Studio Team Server版控歷史紀錄
 > 請依照`Description`，設計解決方案
+
 > 第二次面試時，請說出對`DevOps`的理解與認識
